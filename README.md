@@ -5,6 +5,5 @@ Todo o conteúdo está disponível em nossa [Wiki](https://github.com/thiagolima
 
 Assim como todo youtuber pede pra você dar aquele joinha no vídeo, dê uma estrelinha nesse repositório :)
 
-Se você gostou e quer contribuir, não deixe de ler
-[Diretrizes de contribuição para este projeto](docs/CONTRIBUTING.md)
+Se você gostou e quer contribuir, não deixe de ler as [Diretrizes de contribuição para este projeto](docs/CONTRIBUTING.md)
 
