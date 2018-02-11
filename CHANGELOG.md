@@ -11,6 +11,7 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 - https://github.com/thiagolima-bm/magento2doc/wiki/Public-interterfaces-&-APIs
 - https://github.com/thiagolima-bm/magento2doc/wiki/Adapters
 - https://github.com/thiagolima-bm/magento2doc/wiki/Service-contract-design-patterns
+- CHANGELOG.md
 # Modificado
 - https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento
 - https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento
