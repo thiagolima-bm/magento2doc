@@ -2,9 +2,6 @@
 Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 
 
-
-
-
 ## [0.5.0] - 2018-02-11
 ### Adicionado
 - https://github.com/thiagolima-bm/magento2doc/wiki/Routing
@@ -20,6 +17,9 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 ### Adicionado
 - https://github.com/thiagolima-bm/magento2doc/wiki/Public-interterfaces-&-APIs
 - https://github.com/thiagolima-bm/magento2doc/wiki/Service-contract-design-patterns
+- https://github.com/thiagolima-bm/magento2doc/wiki/Code-Generation
+- https://github.com/thiagolima-bm/magento2doc/wiki/DevDocs-Proxies
+- https://github.com/thiagolima-bm/magento2doc/wiki/ObjectManager
 ### Modificado
 - https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento
 
@@ -39,6 +39,8 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 - https://github.com/thiagolima-bm/magento2doc/wiki/Contratos-de-serviço-(Service-contracts)
 
 ## [0.3.0] - Feb 4, 2018 
+### Adicionado
+- https://github.com/thiagolima-bm/magento2doc/wiki/Eventos-e-observadores-(Events-and-observers)
 ### Modificado
 - https://github.com/thiagolima-bm/magento2doc/blob/master/SUGGESTIONS.md
 - https://github.com/thiagolima-bm/magento2doc/wiki/Instala%C3%A7%C3%A3o
@@ -53,6 +55,7 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 - https://github.com/thiagolima-bm/magento2doc/blob/master/SUGGESTIONS.md
 - https://github.com/thiagolima-bm/magento2doc/wiki/O-injetor-de-dependências-di.xml
 - https://github.com/thiagolima-bm/magento2doc/wiki/Injeção-de-dependencias
+- https://github.com/thiagolima-bm/magento2doc/wiki/Factories
 
 
 ### Modificado
