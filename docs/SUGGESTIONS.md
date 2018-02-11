@@ -2,7 +2,7 @@
 
 Para enviar uma sugestão, siga os seguintes passos:
 
-Crie um novo [Issues](https://github.com/thiagolima-bm/magento2doc/issues/new)
+Crie um novo [Issue](https://github.com/thiagolima-bm/magento2doc/issues/new)
 
 No campo título coloque: [Sugestão] Título da Sugestão
 
