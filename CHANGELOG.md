@@ -12,6 +12,7 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 # Modificado
 - https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento
 - https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento
+- https://github.com/thiagolima-bm/magento2doc/blob/master/docs/SUGGESTIONS.md
 
 ## [0.5.0] - 2018-02-10
 ### Adicionado
@@ -23,11 +24,11 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 ### Modificado
 - https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento
 
-## [0.4.1] - Feb 6, 2018 
+## [0.4.1] - 2018-02.06
 ### Modificado
 - https://github.com/thiagolima-bm/magento2doc/wiki
 
-## [0.4.0] - Feb 5, 2018 
+## [0.4.0] - 2018-02.05
 ### Adicionado
 - https://github.com/thiagolima-bm/magento2doc/blob/master/CODE_OF_CONDUCT.md
 - https://github.com/thiagolima-bm/magento2doc/blob/master/LICENSE
@@ -38,7 +39,7 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 - https://github.com/thiagolima-bm/magento2doc/blob/master/CONTRIBUTING.md
 - https://github.com/thiagolima-bm/magento2doc/wiki/Contratos-de-serviço-(Service-contracts)
 
-## [0.3.0] - Feb 4, 2018 
+## [0.3.0] - 2018-02.04
 ### Adicionado
 - https://github.com/thiagolima-bm/magento2doc/wiki/Eventos-e-observadores-(Events-and-observers)
 ### Modificado
@@ -49,7 +50,7 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 - https://github.com/thiagolima-bm/magento2doc/wiki/Injeção-de-dependencias
 
 
-## [0.2.0] - Feb 3, 2018 
+## [0.2.0] - 2018-02.03
 ### Adicionado
 - https://github.com/thiagolima-bm/magento2doc/blob/master/CONTRIBUTING.md
 - https://github.com/thiagolima-bm/magento2doc/blob/master/SUGGESTIONS.md
@@ -63,11 +64,11 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 - https://github.com/thiagolima-bm/magento2doc/wiki/Instalação
 - https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento
 
-## [0.1.1] - Jan 30, 2018
+## [0.1.1] - 2018-01.30
 ### Modificado
 - https://github.com/thiagolima-bm/magento2doc/blob/master/README.md
 
-## [0.1.0] - Jan 29, 2018 
+## [0.1.0] - 2018-01.29
 ### Adicionado
 - Criação do repositório
 - https://github.com/thiagolima-bm/magento2doc/wiki
