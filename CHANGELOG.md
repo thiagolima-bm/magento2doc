@@ -2,7 +2,7 @@
 Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 
 
-## [0.5.0] - 2018-02-11
+## [0.6.0] - 2018-02-11
 ### Adicionado
 - https://github.com/thiagolima-bm/magento2doc/wiki/Routing
 - https://github.com/thiagolima-bm/magento2doc/wiki/Public-interterfaces-&-APIs
@@ -58,7 +58,6 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 - https://github.com/thiagolima-bm/magento2doc/wiki/Injeção-de-dependencias
 - https://github.com/thiagolima-bm/magento2doc/wiki/Factories
 
-
 ### Modificado
 - https://github.com/thiagolima-bm/magento2doc/blob/master/README.md
 - https://github.com/thiagolima-bm/magento2doc/wiki/Instalação
@@ -73,12 +72,3 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 - Criação do repositório
 - https://github.com/thiagolima-bm/magento2doc/wiki
 - https://github.com/thiagolima-bm/magento2doc/wiki/Instalação
-
-
-
-
-
-
-
-
-
