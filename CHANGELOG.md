@@ -4,7 +4,7 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 ## [Unreleased]
 ### Adicionado
 https://github.com/thiagolima-bm/magento2doc/wiki/Adicionando-reposit%C3%B3rios-ao-composer
-# Modificado
+### Modificado
 https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento-de-módulos
 
 ## [0.6.0] - 2018-02-11
@@ -14,7 +14,7 @@ https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento-de-mó
 - https://github.com/thiagolima-bm/magento2doc/wiki/Adapters
 - https://github.com/thiagolima-bm/magento2doc/wiki/Service-contract-design-patterns
 - https://github.com/thiagolima-bm/magento2doc/blob/master/CHANGELOG.md
-# Modificado
+### Modificado
 - https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento
 - https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento
 - https://github.com/thiagolima-bm/magento2doc/blob/master/docs/SUGGESTIONS.md
