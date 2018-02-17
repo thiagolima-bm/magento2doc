@@ -9,3 +9,5 @@ Se você gostou e quer contribuir, não deixe de ler as [Diretrizes de contribui
 
 Caso queira saber sobre um assunto que ainda não foi publicado veja [Como fazer sugestões de conteúdo](docs/SUGGESTIONS.md)
 
+  Aproveite e marque com uma estrela ![](https://image.prntscr.com/image/8XC4vtZ-Sbub_elw_9WBLw.png) esse repositório. Vamos chegar a 10000? 
+
