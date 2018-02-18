@@ -3,14 +3,14 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
 
 ## [Unreleased]
 ### Adicionado
-https://github.com/thiagolima-bm/magento2doc/wiki/Adicionando-reposit%C3%B3rios-ao-composer
-https://github.com/thiagolima-bm/magento2doc/wiki/Cole%C3%A7%C3%B5es
-https://github.com/thiagolima-bm/magento2doc/wiki/%5BModel%5DRepository
-https://github.com/thiagolima-bm/magento2doc/wiki/%5BModel%5DInterface
-https://github.com/thiagolima-bm/magento2doc/wiki/%5BModel%5DFactory
-https://github.com/thiagolima-bm/magento2doc/wiki/Resource%5BModel%5D
+- https://github.com/thiagolima-bm/magento2doc/wiki/Adicionando-reposit%C3%B3rios-ao-composer
+- https://github.com/thiagolima-bm/magento2doc/wiki/Cole%C3%A7%C3%B5es
+- https://github.com/thiagolima-bm/magento2doc/wiki/%5BModel%5DRepository
+- https://github.com/thiagolima-bm/magento2doc/wiki/%5BModel%5DInterface
+- https://github.com/thiagolima-bm/magento2doc/wiki/%5BModel%5DFactory
+- https://github.com/thiagolima-bm/magento2doc/wiki/Resource%5BModel%5D
 ### Modificado
-https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento-de-módulos
+- https://github.com/thiagolima-bm/magento2doc/wiki/Guia-de-desenvolvimento-de-módulos
 
 ## [0.6.0] - 2018-02-11
 ### Adicionado
